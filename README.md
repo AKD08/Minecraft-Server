@@ -1,1 +1,1 @@
-# Minecraft-Server
+# Official Github of The Generic MC Server
